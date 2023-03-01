@@ -1,0 +1,2 @@
+{names: [1 taka, 2 taka, 5 taka], nc: 3, test: '/content/drive/MyDrive/coin_detection/datasets/test',
+  train: '/content/drive/MyDrive/coin_detection/datasets/train', val: '/content/drive/MyDrive/coin_detection/datasets/val'}
